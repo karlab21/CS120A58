@@ -21,4 +21,5 @@ int main()
 		ifs >> sname >> score1 >>score2;
 		cout << "Students Name: " <<sname << "scores" << score1 << "\t" << score2 ;
 		cout << "\tTotal" << total << "\tAverage" << avg;
+		
 }
